@@ -1,0 +1,12 @@
+/workspaces/EF-8/PublisherDomain/bin/Debug/net8.0/PublisherDomain.deps.json
+/workspaces/EF-8/PublisherDomain/bin/Debug/net8.0/PublisherDomain.dll
+/workspaces/EF-8/PublisherDomain/bin/Debug/net8.0/PublisherDomain.pdb
+/workspaces/EF-8/PublisherDomain/obj/Debug/net8.0/PublisherDomain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/EF-8/PublisherDomain/obj/Debug/net8.0/PublisherDomain.AssemblyInfoInputs.cache
+/workspaces/EF-8/PublisherDomain/obj/Debug/net8.0/PublisherDomain.AssemblyInfo.cs
+/workspaces/EF-8/PublisherDomain/obj/Debug/net8.0/PublisherDomain.csproj.CoreCompileInputs.cache
+/workspaces/EF-8/PublisherDomain/obj/Debug/net8.0/PublisherDomain.sourcelink.json
+/workspaces/EF-8/PublisherDomain/obj/Debug/net8.0/PublisherDomain.dll
+/workspaces/EF-8/PublisherDomain/obj/Debug/net8.0/refint/PublisherDomain.dll
+/workspaces/EF-8/PublisherDomain/obj/Debug/net8.0/PublisherDomain.pdb
+/workspaces/EF-8/PublisherDomain/obj/Debug/net8.0/ref/PublisherDomain.dll

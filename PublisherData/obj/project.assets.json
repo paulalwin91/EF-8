@@ -2192,7 +2192,7 @@
     ]
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "/home/vscode/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -2200,11 +2200,11 @@
       "projectUniqueName": "/workspaces/EF-8/PublisherData/PublisherData.csproj",
       "projectName": "PublisherData",
       "projectPath": "/workspaces/EF-8/PublisherData/PublisherData.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
+      "packagesPath": "/home/vscode/.nuget/packages/",
       "outputPath": "/workspaces/EF-8/PublisherData/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "/home/vscode/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -2258,7 +2258,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

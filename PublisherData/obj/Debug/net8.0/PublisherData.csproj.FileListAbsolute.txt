@@ -1,0 +1,16 @@
+/workspaces/EF-8/PublisherData/bin/Debug/net8.0/PublisherData.deps.json
+/workspaces/EF-8/PublisherData/bin/Debug/net8.0/PublisherData.dll
+/workspaces/EF-8/PublisherData/bin/Debug/net8.0/PublisherData.pdb
+/workspaces/EF-8/PublisherData/bin/Debug/net8.0/PublisherDomain.dll
+/workspaces/EF-8/PublisherData/bin/Debug/net8.0/PublisherDomain.pdb
+/workspaces/EF-8/PublisherData/obj/Debug/net8.0/PublisherData.csproj.AssemblyReference.cache
+/workspaces/EF-8/PublisherData/obj/Debug/net8.0/PublisherData.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/EF-8/PublisherData/obj/Debug/net8.0/PublisherData.AssemblyInfoInputs.cache
+/workspaces/EF-8/PublisherData/obj/Debug/net8.0/PublisherData.AssemblyInfo.cs
+/workspaces/EF-8/PublisherData/obj/Debug/net8.0/PublisherData.csproj.CoreCompileInputs.cache
+/workspaces/EF-8/PublisherData/obj/Debug/net8.0/PublisherData.sourcelink.json
+/workspaces/EF-8/PublisherData/obj/Debug/net8.0/Publishe.C9B3FD54.Up2Date
+/workspaces/EF-8/PublisherData/obj/Debug/net8.0/PublisherData.dll
+/workspaces/EF-8/PublisherData/obj/Debug/net8.0/refint/PublisherData.dll
+/workspaces/EF-8/PublisherData/obj/Debug/net8.0/PublisherData.pdb
+/workspaces/EF-8/PublisherData/obj/Debug/net8.0/ref/PublisherData.dll
