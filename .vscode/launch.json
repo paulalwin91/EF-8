@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug Console App",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/PublisherConsole/bin/Debug/net8.0/PublisherConsole.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}",
+        "console": "integratedTerminal",
+        "stopAtEntry": false,
+  
+      }
+      
+    ]
+    //,      "brokeredServicePipeName": "undefined"
+  }
